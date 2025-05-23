@@ -1,0 +1,3 @@
+/*
+Biểu thức regular expression thỏa mãn tất cả các điều kiện:
+^[a-zA-Z0-9]+([ _-][a-zA-Z0-9]+)*$*/
